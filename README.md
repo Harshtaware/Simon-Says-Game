@@ -1,4 +1,4 @@
 
-# WEBDEV PROJECT1
-Did using HTML,CSS,JavaScript
-Created by Harsh Taware
+# WEB-DEV PROJECT-1
+Did using HTML,CSS,JavaScript.
+Created by Harsh Taware.
